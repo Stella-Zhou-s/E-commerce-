@@ -19,7 +19,7 @@ In order to use inversion of control and dependency injection, we need to use co
 
 ## Controller 
 I use Spring MVC to deal with HTTP request and response.
-![alt text](/demo/mvc.jpg)
+![image](https://github.com/donghai1/E-commerce-/blob/master/demo/mvc.png)
 * HomePage(login and logout)
 * Register
 * Cart(show cart items)
@@ -28,34 +28,34 @@ I use Spring MVC to deal with HTTP request and response.
 * Product(list all products)
 
 ### login
-![alt text](/demo/login.png)
+![image](https://github.com/donghai1/E-commerce-/blob/master/demo/login.png)
 
 ### logout
-![alt text](/demo/logout.png)
+![image](https://github.com/donghai1/E-commerce-/blob/master/demo/logout.png)
 
 ### register
-![alt text](/demo/register.png)
+![image](https://github.com/donghai1/E-commerce-/blob/master/demo/register.png)
 
 ### shopping cart
-![alt text](/demo/cart.png)
+![image](https://github.com/donghai1/E-commerce-/blob/master/demo/cart.png)
 
 ### product listing
-![alt text](/demo/product.png)
+![image](https://github.com/donghai1/E-commerce-/blob/master/demo/product.png)
 
 ## Database
 I use Hibernate to support database CRUD operations instead of using SQL scripts. In the model package, I build each schema as class, and the dao package provides database operation methods.
-![alt text](/demo/db.png)
+![image](https://github.com/donghai1/E-commerce-/blob/master/demo/db.png)
 
 ## Spring Web Flow
 
 ### details
-![alt text](/demo/1.png)
+![image](https://github.com/donghai1/E-commerce-/blob/master/demo/1.png)
 
 ### confirm
-![alt text](/demo/2.png)
+![image](https://github.com/donghai1/E-commerce-/blob/master/demo/2.png)
 
 ### receipt
-![alt text](/demo/3.png)
+![image](https://github.com/donghai1/E-commerce-/blob/master/demo/3.png)
 
 ### done
-![alt text](/demo/4.png)
+![image](https://github.com/donghai1/E-commerce-/blob/master/demo/4.png)
